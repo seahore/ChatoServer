@@ -1,0 +1,36 @@
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\ChatoServer.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\ChatoServer.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\ChatoServer.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\bin\Debug\SocketTest.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\SocketTest.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\SocketTest.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\ChatoServer.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\ChatoServer.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\SocketTest.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\obj\Debug\ChatoServer.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\bin\Debug\SocketTest.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\SocketTest\ChatoServer\bin\Debug\SocketTest.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\bin\Debug\ChatoServer.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.MainForm.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\ChatoServer\ChatoServer\obj\Debug\ChatoServer.pdb
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe.config
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.exe
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.pdb
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\bin\Debug\ChatoServer.pdb
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csprojResolveAssemblyReference.cache
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.MainForm.resources
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.Properties.Resources.resources
+T:\这是我的\网页-软件开发\Git Repos\Chato\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\bin\Debug\SocketTest.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.MainForm.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\SocketTest\SocketTest\obj\Debug\SocketTest.pdb
